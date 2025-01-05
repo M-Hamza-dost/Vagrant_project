@@ -1,6 +1,6 @@
-# LAMP Stack Vagrant Project
+# LAPP Stack Vagrant Project
 
-This project helps you set up a LAMP (Linux, Apache, MySQL, PHP) stack using Vagrant. It creates a consistent environment for developing and testing web applications.
+This project helps you set up a LAPP (Linux, Apache, PostgreSQL, PHP) stack using Vagrant. It creates a consistent environment for developing and testing web applications.
 
 ## Features
 
