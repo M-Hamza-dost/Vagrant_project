@@ -15,7 +15,7 @@ This project helps you set up a LAMP (Linux, Apache, MySQL, PHP) stack using Vag
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+   git clone https://github.com/M-Hamza-dost/Vagrant_project.git
    ```
 
 3. Navigate to the project directory:
@@ -31,6 +31,10 @@ This project helps you set up a LAMP (Linux, Apache, MySQL, PHP) stack using Vag
    ```
 
 5. Access the web application at http://192.168.1.10 in your browser.
+
+
+
+
 
 ## Requirements
 
