@@ -21,7 +21,7 @@ This project helps you set up a LAPP (Linux, Apache, PostgreSQL, PHP) stack usin
 3. Navigate to the project directory:
 
    ```bash
-   cd repositoryname
+   cd Vagrant_project
    ```
 
 4. Start the virtual machines:
