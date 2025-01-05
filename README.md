@@ -32,6 +32,8 @@ This project helps you set up a LAMP (Linux, Apache, MySQL, PHP) stack using Vag
 
 5. Access the web application at http://192.168.1.10 in your browser.
 
+![Screenshot](https://github.com/M-Hamza-dost/Vagrant_project/blob/main/Screenshot.png)
+
 
 
 
